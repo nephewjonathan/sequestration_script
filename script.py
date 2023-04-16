@@ -1,4 +1,4 @@
-#Script by Nephew Jonathan for *Works in Progress*, May 2023.  DO NOT SET ANY OF THESE VARIABLES TO A NEGATIVE NUMBER. 
+# Script by Nephew Jonathan for *Works in Progress*, May 2023.  DO NOT SET ANY OF THESE VARIABLES TO A NEGATIVE NUMBER. 
 
 excess_CO2 = 2700 # how much excess CO2 needs to be gotten out of the atmosphere, in gigatonnes. For reference, 1 ppm of atmospheric CO2 is about 2.08 gigatonnes, though this doesn't count CO2 dissolved in ocean water (this script does not model gas exchange between atmosphere and ocean, but that exchange occurs reasonably quickly, particularly if it's dissolved CO2 being sequestered by underwater rock, which is quickly replenished by CO2 dissolved in rainwater).
 
