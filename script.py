@@ -6,9 +6,9 @@ excess_CO2 = 2700 # how much excess CO2 needs to be gotten out of the atmosphere
 
 yearly_emissions = 60 # worldwide yearly emissions, in gigatonnes
 
-decrease_in_emissions = 0.5 # how much, year on year, are world emissions decreasing?
+decrease_in_emissions = 0.5 # how much, year on year, are world emissions decreasing? (in gigatonnes)
 
-necessary_emissions = 10 # yearly emissions from processes that can't be decarbonized that we'll just have to live with.
+necessary_emissions = 10 # yearly emissions from processes that can't be decarbonized that we'll just have to live with, in gigatonnes
 
 amount_sequestered = 0.5 # amount *sequestered* by rock weathering (or other mechanisms) the first year, in gigatonnes
 
